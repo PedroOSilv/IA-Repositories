@@ -1,4 +1,4 @@
-quarter;date;open;high;low;close;volume;percent_change_price;percent_change_volume_over_last_wk;previous_weeks_volume;next_weeks_open;next_weeks_close;percent_change_next_weeks_price;days_to_next_dividend;percent_return_next_dividend
+stock;quarter;date;open;high;low;close;volume;percent_change_price;percent_change_volume_over_last_wk;previous_weeks_volume;next_weeks_open;next_weeks_close;percent_change_next_weeks_price;days_to_next_dividend;percent_return_next_dividend
 AA;1.0;1294372800.0;15.82;16.72;15.78;16.42;239655616.0;3.79267;-11.62904478675;281893833.375;16.71;15.97;-4.42849;26.0;0.182704
 AA;1.0;1294977600.0;16.71;16.71;15.64;15.97;242963398.0;-4.42849;1.380223028;239655616.0;16.19;15.79;-2.47066;19.0;0.187852
 AA;1.0;1295582400.0;16.19;16.38;15.6;15.79;138428495.0;-2.47066;-43.02495926;242963398.0;15.87;16.13;1.63831;12.0;0.189994
